@@ -1,0 +1,221 @@
+
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VvU-TR7frqv2tVjFdLe3xTAlWUxgHDcXiA&usqp=CAU);
+    
+
+}
+header{
+    width:100%;
+    height:500px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    background-position: center;
+    background-size: cover;
+    float: left;
+}
+
+
+
+.old{
+    margin-top: 0%;
+    margin-left: 0%;
+    overflow-clip-margin: content-box;
+    height: 240px;
+    width: 230px;
+    float: left;
+
+}
+.leftpart{
+    width: 20%;
+    height: 300px;
+    float:left;
+    text-align: center;
+    padding-inline-end: 3px;
+    /* padding-right: 400px; */
+    
+
+}
+ .menu-wrap ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+.menu-wrap ul li {
+    display: flex;
+    padding: 10%;
+}
+.rightpart{
+
+    
+
+    width: 60%;
+    height: 200px;
+   
+    margin-top: 0%;
+    
+
+}
+.navbar ul{
+
+    
+    color: #fff;
+    display: flex;
+    float: left;
+    
+}
+ul li{
+    list-style: none;
+    margin-left: 64px;
+    margin-top: 27px;
+    font-size: 18px;
+}
+.list{
+    float: left;
+}
+.navbar{
+    height: 70px;
+    /* width:; */
+    float: left;
+
+}
+
+
+    
+
+
+
+
+.bottom_part{
+    height: 200px;
+    width: 100%;
+    /* float:left; */
+    position: relative;
+
+}
+.bottom_text{
+    position: relative;
+    padding-inline: 30px;
+   
+
+}
+
+h3{
+    color: white;
+}
+h1{
+    color:white;
+    margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 18px;
+    margin-inline-end: 0px;
+    
+    
+    
+}
+.wrap{
+    width: 90%;
+    margin:0% auto;
+    margin-top: 120px;
+   
+}
+.paragraph{
+    width: 100%;
+    float: left;
+    display: flex;
+}
+    
+
+.leftside{
+    width: 60%;
+    float: left;
+    padding: 0  5% 0 0;
+    min-height: 100px;
+
+}
+p{
+
+    margin-block-start: 1em;
+    margin-inline-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.rightside{
+    width: 30px;
+    min-height: 100px;
+    float: left;
+    padding: 0 0 0 5%;
+    
+    
+}
+.right{
+    height: 300px;
+    float: right;
+
+}
+footer{
+    width: 100%;
+    background-color: black;
+    float: left;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 40px 0 10px  0;
+    width: 100%;
+    
+    
+}
+.wrap{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.footer message{
+    color: white;
+    font-size: 0.4em;
+    margin-bottom: 3px;
+     letter-spacing: 1px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+}
+.dreamo a{
+    color: #fff;
+        font-size: 8px;
+        font-weight: bold;
+        letter-spacing: 1px;
+        font-family: arial;
+        text-decoration: none;
+        float: right;
+    }
+    
+.topHead{
+    width: 100%;
+    display: flex;
+    /* justify-content: ; */
+}
+
+/* .leftpart{
+    width:50%
+}
+
+.rightpart{
+    width: 50%;
+} */
+
+header{
+    width:100%
+}
